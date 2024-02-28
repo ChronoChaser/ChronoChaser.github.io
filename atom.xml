@@ -14,11 +14,11 @@
         <id>https://chronochaser.github.io/HelloVVorld</id>
         <title>写在开始的话</title>
         <link rel="alternate" href="https://chronochaser.github.io/HelloVVorld"/>
-        <content type="html">&lt;p&gt;  现在是 2024 年 1 月 8 号中午十二点五十六，几天里面陆陆续续地搞，终于是给这个博客的东西差不多都配置好了，那在今天这个大喜的日子里面，有一种奇怪的仪式感，自己必须得写点什么，有种新开业的店铺剪彩的感觉了。&amp;lt;br&amp;gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;  现在是 2024 年 1 月 8 号中午十二点五十六，几天里面陆陆续续地搞，终于是给这个博客的东西差不多都配置好了，那在今天这个大喜的日子里面，有一种奇怪的仪式感，自己必须得写点什么，有种新开业的店铺剪彩的感觉了。&lt;/p&gt;
 &lt;p&gt;  话说回来，看现在这个时间，应该正好是我考研初试后两周整。想要写一个博客的想法，大概也是考研复习期间产生的吧。那正好趁着现在回忆一下自己为什么要写这个博客。&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3 id=&#34;关于我的2023年&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于我的2023年&#34;&gt;#&lt;/a&gt; 关于我的 2023 年&lt;/h3&gt;
-&lt;p&gt;  2023 年里面应该算是我变化比较大的一年吧。&amp;lt;br&amp;gt;&lt;br /&gt;
+&lt;p&gt;  2023 年里面应该算是我变化比较大的一年吧。&lt;br /&gt;
   2023 年上半年做毕设，毕业；年中趁着别人没入职，没上学的时间去见了很多自己之前的朋友；下半年独自准备了半年考研。现在想想这一年，果然是个快乐又痛苦的奇妙过程。忙着学习忙着干活忙着玩，经常是有做不完的事，但是一有自己的时间就马上全都浪费掉，每星期都很印象深刻，真的是一段很宝贵的经历。&amp;lt;br&amp;gt;&lt;br /&gt;
   回想起来的话不止这一年，我过去的四年应该都是这么过来的，而现在的我，可能就是用这样的一天天构成的吧。都说 “女孩子是由砂糖、香辛料和某些美好东西组成的” 那我也找个地方记录下自己的日常，看看自己到底是个什么东西，看看我到底是不是书上说的用六十多种元素构成的。&lt;br /&gt;
 &amp;lt;br&amp;gt;&lt;/p&gt;
@@ -45,5 +45,30 @@
         <category term="随想" scheme="https://chronochaser.github.io/tags/radom-thoughts/" />
         <category term="特殊的日子" scheme="https://chronochaser.github.io/tags/coordinate/" />
         <updated>2024-02-20T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://chronochaser.github.io/hello-world_2024-01-02-</id>
+        <title>Hello World</title>
+        <link rel="alternate" href="https://chronochaser.github.io/hello-world_2024-01-02-"/>
+        <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
+&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo new &amp;quot;My New Post&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/writing.html&#34;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/server.html&#34;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo generate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/generating.html&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo deploy
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+        <updated>2024-01-02T15:45:51.113Z</updated>
     </entry>
 </feed>
