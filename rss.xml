@@ -10,24 +10,43 @@
         </author>
         <description>Timelapse of The Past</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 02 Jan 2024 23:45:51 +0800</pubDate>
-        <lastBuildDate>Tue, 02 Jan 2024 23:45:51 +0800</lastBuildDate>
+        <pubDate>Wed, 21 Feb 2024 00:00:00 +0800</pubDate>
+        <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0800</lastBuildDate>
         <category term="纪行" />
         <item>
-            <guid isPermalink="true">https://chronochaser.github.io/hello-world_2024-01-02-</guid>
-            <title>Hello World</title>
-            <link>https://chronochaser.github.io/hello-world_2024-01-02-</link>
-            <pubDate>Tue, 02 Jan 2024 23:45:51 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo new &lt;span class=&#34;token string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/writing.html&#34;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/server.html&#34;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/generating.html&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+            <guid isPermalink="true">https://chronochaser.github.io/HelloVVorld</guid>
+            <title>写在开始的话</title>
+            <link>https://chronochaser.github.io/HelloVVorld</link>
+            <category term="游记" scheme="https://chronochaser.github.io/categories/joural/" />
+            <category term="日常" scheme="https://chronochaser.github.io/categories/joural/norms/" />
+            <category term="回忆" scheme="https://chronochaser.github.io/tags/memories/" />
+            <category term="随想" scheme="https://chronochaser.github.io/tags/radom-thoughts/" />
+            <category term="特殊的日子" scheme="https://chronochaser.github.io/tags/coordinate/" />
+            <pubDate>Wed, 21 Feb 2024 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;  现在是 2024 年 1 月 8 号中午十二点五十六，几天里面陆陆续续地搞，终于是给这个博客的东西差不多都配置好了，那在今天这个大喜的日子里面，有一种奇怪的仪式感，自己必须得写点什么，有种新开业的店铺剪彩的感觉了。&amp;lt;br&amp;gt;&lt;/p&gt;
+&lt;p&gt;  话说回来，看现在这个时间，应该正好是我考研初试后两周整。想要写一个博客的想法，大概也是考研复习期间产生的吧。那正好趁着现在回忆一下自己为什么要写这个博客。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;关于我的2023年&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于我的2023年&#34;&gt;#&lt;/a&gt; 关于我的 2023 年&lt;/h3&gt;
+&lt;p&gt;  2023 年里面应该算是我变化比较大的一年吧。&amp;lt;br&amp;gt;&lt;br /&gt;
+  2023 年上半年做毕设，毕业；年中趁着别人没入职，没上学的时间去见了很多自己之前的朋友；下半年独自准备了半年考研。现在想想这一年，果然是个快乐又痛苦的奇妙过程。忙着学习忙着干活忙着玩，经常是有做不完的事，但是一有自己的时间就马上全都浪费掉，每星期都很印象深刻，真的是一段很宝贵的经历。&amp;lt;br&amp;gt;&lt;br /&gt;
+  回想起来的话不止这一年，我过去的四年应该都是这么过来的，而现在的我，可能就是用这样的一天天构成的吧。都说 “女孩子是由砂糖、香辛料和某些美好东西组成的” 那我也找个地方记录下自己的日常，看看自己到底是个什么东西，看看我到底是不是书上说的用六十多种元素构成的。&lt;br /&gt;
+&amp;lt;br&amp;gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;想写点什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#想写点什么&#34;&gt;#&lt;/a&gt; 想写点什么&lt;/h3&gt;
+&lt;p&gt;  刚才的提到的那些想法，其实主要是在我考研最后的三个月里面产生的。最后三个月我把我基本所有的社交账号和短视频娱乐之类的东西全都扔了，每天闭门造车，累了就看书要么就自己坐着思考，平常娱乐活动是听歌，感觉有压力就去喝点酒然后对着酒杯发呆。很有一种网络世界的潮水褪去，而我本人的生活被暴露出来的感觉。虽然疏于了和其他人的联络，少了点和大家一起的热闹，但是这段时间确实给了我一个审视自己的机会。正是因为这一段时间里面，我能独自冷静思考，总结自己过去的四年，我才能有现在的想法。&lt;/p&gt;
+&lt;p&gt;  第一个要总结的就是学习的内容，所以我想在这里给自己从人，从事，从书中学到的东西记录下来。一方面是自己复习一遍，一方面是让自己以后再看的时候能看到自己是怎么一步步出来的，要是能给想要学的人铺个路那就更好了。&lt;/p&gt;
+&lt;p&gt;  除了学习内容之外，我还想要记录下自己都干过什么。我的父亲是个很珍视自己曾经经历的人，他从小就教育我说，好好对待周围的人，好好珍惜和他人在一起的时间。每次和他散步，他都能指着各个地方说出他在哪里都干过什么。“我十五岁的时候和同学带着家里的狗在这洗澡，现在你都不止十五了，但我想起来还跟昨天似的”，“你老叔就是在这块这的电线杆子这触了电，从那之后脑子可能就反应慢一拍，从小我都一直带着他玩，给他花的钱比给你花的都多....”，“我像你这么大的时候就在这开了音像店，当时老火了，周围人都来抢着帮忙....”，虽然说我之前是没太听懂，但从那个时候起，看着父亲的表情就开始觉得，经历都是宝贵的，父亲是个拥有很多财富的人。现在想起来，我之前每年都会挑时间去自己小学初中高中之类曾经呆过的地方都看一眼，可能就是因为父亲的影响吧。说到父亲，我还是有挺多话想写的，只是自己现在表达能力不够，等哪天觉得自己有能写出来的的能力的时候一定得好好聊一聊。于是我应该也会偶尔写一写自己的回忆吧。&lt;/p&gt;
+&lt;p&gt;  再就是，我自己的一些爱好了。其中一个很大的就是喜欢听歌。想要整个地方满足下自己听到歌之后产生的表达欲，所以偶尔会有一些听歌的感受或者是歌词翻译之类的。另一个就是玩游戏或者看电影了，总之如果碰到了玩到了很有感觉的文艺作品，那我可能会去写点感悟吧。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;那就不如写个博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#那就不如写个博客&#34;&gt;#&lt;/a&gt; 那就不如写个博客&lt;/h3&gt;
+&lt;p&gt;  关于为什么我要想到了专门搞一个博客来记录这些。一个契机是，之前我听歌的时候，没事就去查一查，偶然看到了个博客叫做：&lt;a href=&#34;https://hsartrevlis.blogspot.com/&#34;&gt;對音樂遊戲太認真的產物&lt;/a&gt;，是近十年前的东西，而且也好久没更新了，但是作者在里面写的东西给了当时的我很大的帮助。于是我当时就隐隐觉得，有个自己的博客，新文不会给周围的人推送，仅供自娱自乐，而偶尔给有缘人能看到的看看确实挺好的。大概是因为是这里给我的灵感吧，我才想整个自己的博客。说实话我不太喜欢到处分享自己的想法，&lt;s&gt;大概容易给自己尬到&lt;/s&gt;，但可能再过一段时间，等我发现现在的东西已经变成了自己身后的事情的时候，我会愿意给别人看吧。&lt;/p&gt;
+&lt;p&gt;  &lt;s&gt;写完上面的吃去吃了个饭，然后摆烂了一天，现在是十号了&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;  之前看推特看到过句话，“意识到自己想做的，自己能做的，和自己做出来的差别的时候，才能算入门了创作”。可能确实，我写出来的东西和自己想要的效果也应该会差很多吧。但是我写博客的主要目的也不是创作，更多的是给自己一个交代的感觉。&lt;/p&gt;
+&lt;p&gt;  关于这个博客的名字，ChronoDiver，本来是一个歌的歌名，打音游时候总玩，平常没事也会听一听，名字听起来还是有那么点感觉的，所以我就拿来当博客名字了。&lt;/p&gt;
+&lt;p&gt;&amp;lt;iframe frameborder=&amp;quot;no&amp;quot; border=&amp;quot;0&amp;quot; marginwidth=&amp;quot;0&amp;quot; marginheight=&amp;quot;0&amp;quot; width=280 height=86 src=&amp;quot;&lt;a href=&#34;//music.163.com/outchain/player?type=2&amp;amp;id=34828134&amp;amp;auto=1&amp;amp;height=66&#34;&gt;//music.163.com/outchain/player?type=2&amp;amp;id=34828134&amp;amp;auto=1&amp;amp;height=66&lt;/a&gt;&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;  由于各种原因，我终于再一次闲下来给这里收尾，现在已经是二月二十号了，就重新润色了下上面所有的内容，总之这就是开始了。&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
