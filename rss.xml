@@ -14,9 +14,9 @@
         <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0800</lastBuildDate>
         <category term="纪行" />
         <item>
-            <guid isPermalink="true">https://chronochaser.github.io/HelloVVorld</guid>
+            <guid isPermalink="true">https://chronochaser.github.io/HelloVVorld/</guid>
             <title>写在开始的话</title>
-            <link>https://chronochaser.github.io/HelloVVorld</link>
+            <link>https://chronochaser.github.io/HelloVVorld/</link>
             <category term="游记" scheme="https://chronochaser.github.io/categories/joural/" />
             <category term="日常" scheme="https://chronochaser.github.io/categories/joural/norms/" />
             <category term="回忆" scheme="https://chronochaser.github.io/tags/memories/" />
@@ -44,31 +44,6 @@
 &lt;p&gt;  关于这个博客的名字，ChronoDiver，本来是一个歌的歌名，打音游时候总玩，平常没事也会听一听，名字听起来还是有那么点感觉的，所以我就拿来当博客名字了。&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;  由于各种原因，我终于再一次闲下来给这里收尾，现在已经是二月二十号了，就重新润色了下上面所有的内容，总之这就是开始了。&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://chronochaser.github.io/hello-world_2024-01-02-</guid>
-            <title>Hello World</title>
-            <link>https://chronochaser.github.io/hello-world_2024-01-02-</link>
-            <pubDate>Tue, 02 Jan 2024 23:45:51 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo new &amp;quot;My New Post&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/writing.html&#34;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo server
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/server.html&#34;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo generate
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/generating.html&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo deploy
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
